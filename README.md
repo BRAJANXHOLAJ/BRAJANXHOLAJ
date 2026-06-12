@@ -6,7 +6,7 @@ looking for remote internships or junior roles.
 
 ## 🛠️ Skills
 - **Languages:** Java, Python, PHP, JavaScript, SQL
-- **Web:** HTML, CSS, Node.js, REST APIs
+- **Web:** HTML, CSS, REST APIs
 - **ML/Data:** Scikit-learn, Pandas, Streamlit, Jupyter
 - **Tools:** Git, MySQL, Oracle DB
 
